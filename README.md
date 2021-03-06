@@ -1,4 +1,4 @@
-## Hello World !! <img src="resources/hello.gif" width="25px" /> <img src="resources/world.gif" width="26px" />
+# Hello World !! <img src="resources/hello.gif" width="25px" /> <img src="resources/world.gif" width="26px" />
 
 ## I'm Software Engineer and student every day <img src="resources/typing.gif" width="60px" />
 
