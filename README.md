@@ -1,13 +1,27 @@
-## Hello World!! <img src="resources/hello.gif" width="25px">
+## Hello World !! <img src="resources/hello.gif" width="25px" /> <img src="resources/world.gif" width="26px" />
+
+## I'm Software Engineer and student every day <img src="resources/typing.gif" width="60px" />
+
+- 💼 Currently working full time
+- 🌱 Learning about software architecture
+- 🥅 I would like to become a Software Architect and DevOps
+- 🎮 I love video games and sports 🤸‍♂️
 
 <br />
 
-## I'm Software Engineer and student every day!!
+## Languages and Tools
 
-- 💼 Currently working full time
-- 🌱 I’m learning about software architecture
-- 🥅 I would like to become a Software Architect and DevOps
-- 🎮 I love video games and sports 🤸‍♂️
+<p>
+    <img src="resources/javascript.svg" width="55px" />
+    <img src="resources/html.svg" />
+    <img src="resources/react.svg" />
+    <img src="resources/java.svg" />
+    <img src="resources/spring.svg" />
+    <img src="resources/firebase.svg" />
+    <img src="resources/docker.svg" />
+    <img src="resources/git.svg" />
+    <img src="resources/vscode.svg" />
+</p>
 
 <br />
 
@@ -15,6 +29,4 @@
 
 <br />
 
-[<img align="left" alt="Alberto Guerrero | LinkedIn" width="35px" src="resources/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/albergr
+[<img src="resources/linkedin.svg" width="35px" />](https://linkedin.com/in/albergr)
