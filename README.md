@@ -29,4 +29,4 @@
 
 <br />
 
-<a href="https://linkedin.com/in/albergr" target="_blank"><img src="resources/linkedin.svg" width="35px" /></a>
+[<img src="resources/linkedin.svg" width="35px" />](https://linkedin.com/in/albergr)
