@@ -1,4 +1,4 @@
-# Hello World !! <img src="resources/hello.gif" width="25px" /> <img src="resources/world.gif" width="26px" />
+# Hello World !! <img src="resources/hello.gif" width="28px" /> <img src="resources/world.gif" width="30px" />
 
 ## I'm Software Engineer and student every day <img src="resources/typing.gif" width="60px" />
 
@@ -29,4 +29,4 @@
 
 <br />
 
-[<img src="resources/linkedin.svg" width="35px" />](https://linkedin.com/in/albergr)
+<a href="https://linkedin.com/in/albergr" target="_blank"><img src="resources/linkedin.svg" width="35px" /></a>
